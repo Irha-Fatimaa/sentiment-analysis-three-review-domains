@@ -1,0 +1,598 @@
+text,source,actual,predicted,positive_probability
+I don't know what kind it is but they have the best iced tea.,yelp,1,1,0.5172559725924434
+"I had strawberry tea, which was good.",yelp,1,1,0.7410668284722776
+That's how I'd describe this painfully dreary time-waster of a film.,imdb,0,0,0.45672810436220596
+"It holds a charge for a long time, is reasonably comfortable under long-wearing conditions and the quality of sound is tremendous.",amazon,1,1,0.7091969078101404
+The waitresses are very friendly.,yelp,1,1,0.7448386342918286
+You'll love how thin it is.,amazon,1,1,0.6948808807922432
+Do yourself a favor and stay away from this dish.,yelp,0,0,0.3502520151531804
+Poor product.,amazon,0,0,0.22023819255913032
+Disappointing experience.,yelp,0,0,0.31689320374698826
+you could only take 2 videos at a time and the quality was very poor.,amazon,0,0,0.3882877479635747
+"The service was not up to par, either.",yelp,0,0,0.16198614574170667
+it did not work in my cell phone plug i am very up set with the charger!.,amazon,0,0,0.34406625195792756
+"I live in the neighborhood so I am disappointed I won't be back here, because it is a convenient location.",yelp,0,0,0.4560915195400067
+Once your food arrives it's meh.,yelp,0,0,0.4211842682955129
+The CG opening sequence in space looked like it could have been created on Microsoft Slideshow for God's sake!,imdb,0,0,0.4234245443135365
+The RI style calamari was a joke.,yelp,0,0,0.38778980730468804
+New Battery works great in phone.,amazon,1,1,0.9128121889833261
+"However, here there was no decent acting, action or location work to balance things up.",imdb,0,0,0.21824586146228872
+Graphics is far from the best part of the game.,imdb,0,1,0.7649680440185506
+All the characters in this film are tremendously well played.,imdb,1,1,0.7956603861859559
+"My father has the V265, and the battery is dying.",amazon,0,1,0.5952927417455918
+Left very frustrated.,yelp,0,1,0.5256556946428157
+There's really nothing bad I can say about this headset.,amazon,0,0,0.2891785067198881
+"Excellent sound, battery life and inconspicuous to boot!.",amazon,1,1,0.6732466042844372
+"It was too predictable, even for a chick flick.",imdb,0,0,0.2046752422620939
+Great place to relax and have an awesome burger and beer.,yelp,1,1,0.8961016288392971
+You wont regret it!,imdb,1,1,0.5521785942938343
+How awesome is that.,yelp,1,1,0.5108200577262628
+"The results, well, are a shame.",imdb,0,1,0.708485093853143
+The football scenes at the end were perplexing.,imdb,0,0,0.47458707355482266
+IT'S REALLY EASY.,amazon,1,1,0.6028029802461892
+Incredible!.,amazon,1,1,0.6593355280994473
+"steve martin delivers a really funny performance of a middle-aged, upper class, uptight white guy.",imdb,1,1,0.6141969611456553
+The cocktails are all handmade and delicious.,yelp,1,1,0.8715443507130103
+Go rent it.,imdb,1,0,0.48817521511087064
+"It was forced, like everything in this movie.",imdb,0,0,0.42422172301883204
+Great Pocket PC / phone combination.,amazon,1,1,0.7994159974388191
+I love this phone!.,amazon,1,1,0.7954851944375794
+"The rest of the movie lacks art, charm, meaning... If it's about emptiness, it works I guess because it's empty.",imdb,0,1,0.5774067223592431
+"The movie was so boring, that I sometimes found myself occupied peaking in the paper instead of watching (never happened during a Columbo movie before!",imdb,0,0,0.38958363636829824
+"This convention never worked well in the past, and certainly doesn't work here.",imdb,0,0,0.46963199651376963
+This is definitely a must have if your state does not allow cell phone usage while driving.,amazon,1,0,0.4356072858110605
+The seasonal fruit was fresh white peach puree.,yelp,1,1,0.5826740301544546
+"It was so bad, I had lost the heart to finish it.",yelp,0,0,0.25677083914657334
+"None of it works, just don't buy it.",amazon,0,0,0.3578391383464564
+"All in all an excellent restaurant highlighted by great service, a unique menu, and a beautiful setting.",yelp,1,1,0.9128629330570964
+I love this cable - it allows me to connect any mini-USB device to my PC.,amazon,1,1,0.686235723656911
+worthless product.,amazon,0,0,0.4825734451472307
+Nicest Chinese restaurant I've been in a while.,yelp,1,0,0.4024984583294086
+"Other than that, the leather is nice and soft; the fit is very tight; the cut out for the face is a good shape.",amazon,1,1,0.83205090427628
+His losing his marbles so early in the proceedings is totally implausible and unconvincing.,imdb,0,1,0.6368297037564172
+We could not believe how dirty the oysters were!,yelp,0,0,0.13430043800372216
+Plantronics Bluetooth Excelent Buy.,amazon,1,1,0.5092402393810571
+The Ngage is still lacking in earbuds.,amazon,0,1,0.5373981350913439
+The tables outside are also dirty a lot of the time and the workers are not always friendly and helpful with the menu.,yelp,0,1,0.6547907618889518
+This phone might well be the worst I've ever had in any brand.,amazon,0,0,0.38646795477555884
+I could not stand to even watch it for very long for fear of losing I.Q.,imdb,0,0,0.26006403871434675
+"The film has great actors, a master director, a significant theme--at least a would-be significant theme, undertone of fifties existential world-weariness, aerial scenes that ought to have thrilled both senses and imagination, and characters about which one might deeply care.",imdb,1,1,0.6808557985970045
+That's right....the red velvet cake.....ohhh this stuff is so good.,yelp,1,1,0.7323513174589161
+"It's just adorable seeing Mickey playing ""Turkey in the Straw"" in a highly imaginative (if occasionally cruel) way.",imdb,1,0,0.49208161270471257
+Item Does Not Match Picture.,amazon,0,0,0.1589414591581633
+Horrible!,imdb,0,0,0.17647464459014392
+The earpiece on this is too large or too heavy...it keeps falling out of my ear.,amazon,0,0,0.34716602845361727
+"I loved the grilled pizza, reminded me of legit Italian pizza.",yelp,1,1,0.63689121140535
+So we went to Tigerlilly and had a fantastic afternoon!,yelp,1,1,0.7116687310597252
+"Clear Skype Calls, Long Battery Life, Long Range.",amazon,1,0,0.43281270214861534
+This place is amazing!,yelp,1,1,0.738476560626851
+"Overall, I like this place a lot.",yelp,1,1,0.6012084832445571
+But it wasn't until I watched this film that I realised how great he actually was.,imdb,1,1,0.5735979872387525
+It's very convenient and simple to use - gets job done & makes the car ride so much smoother.,amazon,1,1,0.6289444129812614
+It was delicious!!!,yelp,1,1,0.6866103075397975
+"Back to good BBQ, lighter fare, reasonable pricing and tell the public they are back to the old ways.",yelp,1,1,0.6529427774751432
+It feels more comfortable than most headsets because I wear glasses and that gets in the way sometimes.,amazon,1,1,0.6098197119961004
+I did not have any problem with this item and would order it again if needed.,amazon,1,0,0.25195749187470323
+Hence the whole story lacks a certain energy.,imdb,0,0,0.40651625486500886
+"The characters are fleshed out surprisingly well, particularly Grimes and Blake, and all the actors deliver their sharply scripted lines with just the right amount of deadpan tongue in cheek to make the dialogue both hilarious and realistic.",imdb,1,1,0.7187083185756689
+"We had so much to say about the place before we walked in that he expected it to be amazing, but was quickly disappointed.",yelp,0,1,0.5013627467248148
+Never got it!!!!!,amazon,0,0,0.2587409093317048
+"The film succeeds despite, or perhaps because of, an obviously meagre budget.",imdb,1,1,0.5066756259972304
+"This was reflected not only in the cast, but also in the below-par script, which borrowed much from the earlier classic.",imdb,0,0,0.26823567202114
+The film's sole bright spot was Jonah Hill (who will look almost unrecognizable to fans of the recent Superbad due to the amount of weight he lost in the interim).,imdb,1,1,0.639703396393808
+This movie is well-balanced with comedy and drama and I thoroughly enjoyed myself.,imdb,1,1,0.762671481579045
+"Also, if your phone is dropped, this case is not going to save it, specially when dropped face down.",amazon,0,0,0.25505356187737405
+"Bluetooth range is good - a few days ago I left my phone in the trunk, got a call, and carried the conversation without a hitch.",amazon,1,1,0.7142486900139349
+"And the drinks are WEAK, people!",yelp,0,1,0.620790509769537
+"A week later after I activated it, it suddenly died.",amazon,0,0,0.41642256934161176
+"Aailiyah was pretty good as Akasha, in places compelling (her first entrance and mini dance scene).",imdb,1,1,0.6828095513606343
+Blue Ant is easy to use.,amazon,1,1,0.6474665005649923
+I am going to have to be the first to negatively review this product.,amazon,0,0,0.3611433005999742
+It's a great place and I highly recommend it.,yelp,1,1,0.8743277237341772
+very tough and very short on flavor!,yelp,0,1,0.6619589998293243
+It really is impressive that the place hasn't closed down.,yelp,0,0,0.4244055039847046
+I loved the bacon wrapped dates.,yelp,1,1,0.7541917887929814
+I got home to see the driest damn wings ever!,yelp,0,0,0.4816206186107355
+"putting the race card aside, lets look at the major flaw in the film: they destroy latifa's character.",imdb,0,1,0.5922540755484295
+"It handles some tough issues with dignity and grace, and, of course, has (shocking spoiler here!",imdb,1,1,0.6746237132830933
+"It showed exactly how the government and the scientist argued for humanity and the reasons of the ""gadget"".",imdb,1,1,0.716619164172839
+The camera on the phone may be used as a dustpan when indoors... I'd rather be using a disposable then this.,amazon,0,0,0.40915270000274767
+i got this phone around the end of may and i'm completely unhappy with it.,amazon,0,1,0.5439673205130011
+I did not bother contacting the company for few dollar product but I learned the lesson that I should not have bought this form online anyway.,amazon,0,0,0.18610174562328038
+I've had this bluetoooth headset for some time now and still not comfortable with the way it fits on the ear.,amazon,0,1,0.5075851347331855
+"I hate to disagree with my fellow Yelpers, but my husband and I were so disappointed with this place.",yelp,0,0,0.45101304583942875
+the staff is friendly and the joint is always clean.,yelp,1,1,0.8029066212751892
+"This case has passed the one year mark and while it shows signs of wear, it is 100% functional.",amazon,1,1,0.5985129386909304
+"This place is like Chipotle, but BETTER.",yelp,1,0,0.4449036585604656
+"Classy/warm atmosphere, fun and fresh appetizers, succulent steaks (Baseball steak!!!!!",yelp,1,1,0.6683390055304878
+Paolo Sorrentino has written a wonderful story about loneliness and Tony has built one of the most unforgettable characters seen in movies in recent years.,imdb,1,1,0.7783962774486772
+Nice docking station for home or work.,amazon,1,1,0.531119650294606
+"Good show, Samsung.",amazon,1,1,0.729467655567139
+Very very fun chef.,yelp,1,1,0.5955615992435899
+"I understand that it's supposed to be a cheap popcorn comedy, but that doesn't mean that it has to completely insult our intelligence, and have writing so incredibly hackneyed that it borders on offensive.",imdb,0,0,0.4534593062416731
+Restaurant is always full but never a wait.,yelp,1,0,0.43086081707475876
+Eew... This location needs a complete overhaul.,yelp,0,0,0.472071197646826
+For readers who have already seen one of Miyazaki's films: he is still in top form and made another worthwhile experience.,imdb,1,1,0.6146923896673651
+The plantains were the worst I've ever tasted.,yelp,0,0,0.2524761100523397
+Tried to go here for lunch and it was a madhouse.,yelp,0,1,0.5025257170352707
+Would not recommend to others.,yelp,0,0,0.17628733451888767
+This mostly routine fact-based TV drama gets a boost from the fine performance by Cole.,imdb,1,1,0.6513919061498256
+It defeats the purpose of a bluetooth headset.,amazon,0,1,0.6488241162463186
+The Malta settings are as dry and as barren as the dialogue.,imdb,0,0,0.3660985244864071
+"I'm glad this pretentious piece of s*** didn't do as planned by the Dodge stratus Big Shots... It's gonna help movie makers who aren't in the very restrained ""movie business"" of Québec.",imdb,0,0,0.26565005982467194
+"The food sucked, which we expected but it sucked more than we could have imagined.",yelp,0,0,0.3118119563663684
+"By this point, my friends and I had basically figured out this place was a joke and didn't mind making it publicly and loudly known.",yelp,0,0,0.46797380628706764
+"The biggest complaint I have is, the battery drains superfast.",amazon,0,0,0.33600719172267784
+The holster that arrived did not match the photo in the ad.,amazon,0,0,0.24677932722609738
+Extremely Tasty!,yelp,1,0,0.38830474114742575
+I love the look and feel of Samsung flipphones.,amazon,1,1,0.7520500977786253
+The ambience is wonderful and there is music playing.,yelp,1,1,0.5982813822948357
+"Same evening, him and I are both drastically sick.",yelp,0,1,0.646226692984762
+It came free with a DVD player I bought but I still turned the thing off halfway through because I was embarrassed for Howell.,imdb,0,0,0.3938140038803047
+"If you do go see this movie, bring a pillow or a girlfriend/boyfriend to keep you occupied through out.",imdb,0,0,0.3871178334412021
+The show would begin with smart ass ed comments to each other that would be totally off the wall and uncalled for.,imdb,0,0,0.39628565799206317
+"It quit working after I'd used it for about 18 months, so I just purchased another one because this is the best headset I've ever owned.",amazon,1,1,0.6044526201857529
+I checked out this place a couple years ago and was not impressed.,yelp,0,0,0.3615370857036253
+I'll even say it again  this is torture.,imdb,0,0,0.47851514135992024
+Tonight I had the Elk Filet special...and it sucked.,yelp,0,1,0.5272451571779968
+It's a shame to see good actors like Thomerson and James make a living in a mess like this.,imdb,0,1,0.6875327616938279
+"I saw ""Mirrormask"" last night and it was an unsatisfactory experience.",imdb,0,1,0.630573002388802
+Brilliant!,imdb,1,1,0.6476499784016264
+Nice Sound.,amazon,1,1,0.7965757988409851
+The telephone repair man was really funny and his reactions to the nuts and bitchy boss were truly genuine.,imdb,1,1,0.7192018873833688
+"All the actors give a wonderful performance, especially Jennifer Rubin as Jamie Harris, who changes from the nervous starlet in the beginning through the strange events she is part of to the cool star.",imdb,1,1,0.6672566580652936
+The chicken was deliciously seasoned and had the perfect fry on the outside and moist chicken on the inside.,yelp,1,1,0.7346890447543426
+The worst one of the series.,imdb,0,0,0.35653443387961103
+A lot of websites have been rating this a very good phone and so do I.,amazon,1,1,0.7295948434944428
+Very Very Disappointed ordered the $35 Big Bay Plater.,yelp,0,0,0.251378497348492
+"It was attached to a gas station, and that is rarely a good sign.",yelp,0,1,0.7277028150651849
+The poor actors.,imdb,0,0,0.20686814443696694
+It was absolutely amazing.,yelp,1,1,0.6248125618308192
+"The very idea of it was lame - take a minor character from a mediocre PG-13 film, and make a complete non-sequel while changing its tone to a PG-rated family movie.",imdb,0,0,0.4174958018601122
+This is probably the most irritating show I have ever seen in my entire life.,imdb,0,0,0.3986971905589732
+"I highly recommend this movie for anyone interested in art, poetry, theater, politics, or Japanese history.",imdb,1,1,0.6839483216624679
+"It's dumb and pointless, and a complete waste of time.",imdb,0,0,0.33603159665638144
+"This is a good battery, and it got here really fast.",amazon,1,1,0.7921594788822917
+"The camera, although rated at an impressive 1.3 megapixels, renders images that fall well below expectations of such a relatively high resolution.",amazon,0,1,0.5367078824390905
+"This film highlights the fundamental flaws of the legal process, that it's not about discovering guilt or innocence, but rather, is about who presents better in court.",imdb,1,0,0.26489880323614245
+This movie is also revealing.,imdb,1,1,0.5323563018338011
+When I saw it in the theater I thought I was going to be sick.,imdb,0,0,0.4873090089911785
+After the disappointing dinner we went elsewhere for dessert.,yelp,0,0,0.3320569764506919
+First time going but I think I will quickly become a regular.,yelp,1,0,0.4789222483665099
+I left with a stomach ache and felt sick the rest of the day.,yelp,0,1,0.52227919790292
+Would not reccommend.,amazon,0,0,0.05840190246170008
+Cumbersome design.,amazon,0,0,0.3839573923460495
+Go To Place for Gyros.,yelp,1,0,0.45094345565692967
+Service is also cute.,yelp,1,1,0.6301190190507234
+Car charger as well as AC charger are included to make sure you never run out of juice.Highy recommended,amazon,1,1,0.5001601755734605
+did not like at all.,yelp,0,0,0.1352514550941978
+"When I opened the sandwich, I was impressed, but not in a good way.",yelp,0,0,0.35820975947222056
+Loved the casting of Jimmy Buffet as the science teacher.,imdb,1,1,0.6440364014262171
+"I was totally fascinated by the music, the dancing... everything.",imdb,1,0,0.4095348312893176
+"(It wasn't busy either) Also, the building was FREEZING cold.",yelp,0,0,0.3027995464033866
+"Tom Wilkinson's character is a man who is not prepared for the ordeal that is about to begin, but he takes the matter in hand as the story progresses, and this great actor gives a performance that makes you feel the character's anguish and suffering.",imdb,1,1,0.5847933954945695
+"It lasts less than 3o minutes, if I actually try to use the phone.My wife has the same phone with the same problem.",amazon,0,0,0.44171321756125803
+Fantastic buy and will get again for whatever my next phone is,amazon,1,1,0.5877870516869986
+Will be back again!,yelp,1,0,0.4798037621810471
+)Setup couldn't have been simpler.,amazon,1,0,0.40682506575185906
+Service was excellent and prices are pretty reasonable considering this is Vegas and located inside the Crystals shopping mall by Aria.,yelp,1,1,0.827816953007768
+"We had fantastic service, and were pleased by the atmosphere.",yelp,1,1,0.7450489567461153
+She was quite disappointed although some blame needs to be placed at her door.,yelp,0,0,0.3094679222235582
+Waste of 13 bucks.,amazon,0,0,0.23687942070886142
+disappointed.,amazon,0,0,0.18343433305594933
+Excellent starter wireless headset.,amazon,0,1,0.8064394031725788
+All in all its an insult to one's intelligence and a huge waste of money.,imdb,0,0,0.40124530555667426
+"The service was a little slow , considering that were served by 3 people servers so the food was coming in a slow pace.",yelp,0,0,0.314040704030419
+"Not only will it drain your player, but may also potentially fry it.",amazon,0,0,0.19819052576411472
+Wonderful lil tapas and the ambience made me feel all warm and fuzzy inside.,yelp,1,1,0.6990418637890745
+Very good stuff for the price.,amazon,1,1,0.8795211748890994
+It looks very nice.,amazon,1,1,0.6994671362734893
+Do not waste your time.,imdb,0,0,0.07468527204964803
+"And I forgot: The Casting here i superb, with Trond Fausa Aurvåg being perfect in the role as the Bothersome Man, who doesn't understand where he is, what he is doing and why.",imdb,1,1,0.5614775595808426
+"As a courtroom drama, it's compelling, as an indictment on the American justice system, it's frightening.",imdb,1,0,0.4454520232789991
+It is a joy to use.,amazon,1,1,0.5516056363974239
+I ended up sliding it on the edge of my pants or back pockets instead.,amazon,1,0,0.3815243906430352
+Lange had become a great actress.,imdb,1,1,0.7954918190791771
+This place deserves no stars.,yelp,0,0,0.4825426507463512
+"Maybe it's just their Vegetarian fare, but I've been twice and I thought it was average at best.",yelp,0,0,0.4080259296188957
+"Not a weekly haunt, but definitely a place to come back to every once in a while.",yelp,1,0,0.3799878237063538
+"Unfortunately, 'Cover Girl' is an example of how Hollywood used to exploit women for financial gain.",imdb,0,0,0.3764173201730423
+"In short, don't bother with this movie.",imdb,0,0,0.35407354414530195
+I have yet to run this new battery below two bars and that's three days without charging.,amazon,1,0,0.42423201288232426
+"Their on-screen chemistry, critical to the entire film, is genuine.",imdb,1,1,0.6685519079662057
+"Otherwise, easy to install and use, clear sound.",amazon,1,1,0.6601891180704648
+"It has a great camera thats 2MP, and the pics are nice and clear with great picture quality.",amazon,1,1,0.9408676736122646
+I was particularly pleased with the acting ability of Dwight Schultz.,imdb,1,1,0.5578426342286898
+I want my money back.,amazon,0,0,0.30457518703280007
+"I mean really, how do you get so famous for your fish and chips when it's so terrible!?!",yelp,0,0,0.39680050650964516
+I had the chicken Pho and it tasted very bland.,yelp,0,1,0.5797519838052089
+Food was really good and I got full petty fast.,yelp,1,1,0.7086395448959029
+Not recommended.,imdb,0,0,0.19813790342974802
+Now this dish was quite flavourful.,yelp,1,0,0.4305403861987686
+So anyone near you will hear part of your conversation.,amazon,0,0,0.4436339674896419
+"Good product, good seller.",amazon,1,1,0.8726156970575939
+And it was way to expensive.,yelp,0,0,0.4827779943093272
+The result is a film that just don't look right.,imdb,0,0,0.43805471432708326
+what a disappointment,amazon,0,0,0.15742859561208564
+What a great double cheeseburger!,yelp,1,1,0.746900439187134
+My salad had a bland vinegrette on the baby greens and hearts of Palm.,yelp,0,0,0.48270256808561685
+It fits my ear well and is comfortable on.,amazon,1,1,0.8090288689223085
+"He can bore you to pieces, and kill the momentum of a movie, quicker than anyone else.",imdb,0,1,0.5034571664579488
+I believe the screenwriter did a good job of tying up the loose ends.,imdb,1,1,0.6826271427300683
+This film offers many delights and surprises.,imdb,1,1,0.6507164414552508
+Why was this film made?,imdb,0,0,0.4622100813508078
+Thank you for such great service.,amazon,1,1,0.7431386989480804
+Linda Cardellini is the only thing good in this film.,imdb,1,1,0.5323496262507025
+2 thumbs up to this seller,amazon,1,1,0.5048061008316962
+"Buyer Beware, you could flush money right down the toilet.",amazon,0,0,0.38785847133441553
+"Went in for happy hour, great list of wines.",yelp,1,1,0.7528371023280611
+"I probably won't be back, to be honest.",yelp,0,0,0.3901514819413035
+I think food should have flavor and texture and both were lacking.,yelp,0,1,0.5332070601984435
+We would recommend these to others.,amazon,1,1,0.5594034249793794
+Great movie!,imdb,1,1,0.9542291911474765
+The acting by the whole cast could be put on a scale and balanced perfectly between overacting and underacting.,imdb,0,1,0.5787719212499328
+don't waste your money and time.,amazon,0,0,0.14670979548277835
+It's AGGRAVATING!,amazon,0,1,0.5330027942875137
+The buffet is small and all the food they offered was BLAND.,yelp,0,1,0.5100457177544973
+"Perhaps my phone is defective, but people cannot hear me when I use this.",amazon,0,0,0.40579847937619673
+Couldn't figure it out,amazon,0,1,0.5281121010505866
+Very good lunch spot.,yelp,1,1,0.8366007291163614
+The camera really likes her in this movie.,imdb,1,1,0.5017081588024266
+This device is great in several situations:1.),amazon,1,1,0.8612560947998423
+EXCELLENT SERVICE!!!!!!!!.,amazon,1,1,0.8121080937072165
+This is just a great movie.,imdb,1,1,0.8532775740944556
+This movie is a good and humorous comment on life in 2006.,imdb,1,1,0.7756173653938778
+Has been working great.,amazon,1,1,0.7972364691538018
+This is one of the best bars with food in Vegas.,yelp,1,1,0.8409947720120362
+Unfortunately it's easy to accidentally activate them with the gentle-touch buttons if you accidentally touch the phone to your face while listening.,amazon,0,1,0.5200606590136168
+I ordered the Lemon raspberry ice cocktail which was also incredible.,yelp,1,1,0.5595348536701252
+I didn't think that the instructions provided were helpful to me.,amazon,0,0,0.31488164179888467
+Does Not Work.,amazon,0,0,0.12039634212097004
+I would recommend it.,amazon,1,1,0.6025983213266884
+This place deserves one star and 90% has to do with the food.,yelp,0,1,0.626136053340315
+Favorite place in town for shawarrrrrrma!!!!!!,yelp,1,1,0.6077561169625816
+"The characters are interesting and you want to find out more about them the longer the movie goes on, and I think people will be surprised by who does and doesn't make it.",imdb,1,1,0.6065775450625801
+Also the area where my unit broke).- I'm not too fond of the magnetic strap.,amazon,0,0,0.22944502786260307
+The cashier was friendly and even brought the food out to me.,yelp,1,1,0.5633090340594179
+definitely will come back here again.,yelp,1,0,0.4786400056366672
+"For people who are first timers in film making, I think they did an excellent job!!",imdb,1,1,0.7723226043040202
+"It's so stupid to have to keep buying new chargers, car chargers, cradles, headphones and car kits every time a new phone comes out.",amazon,0,1,0.531344471908885
+"For a self proclaimed coffee cafe, I was wildly disappointed.",yelp,0,0,0.2979406935400572
+I've also had problems with the phone reading the memory card in which I always turn it on and then off again.,amazon,0,0,0.3982730561213397
+The sound quality is good and functionality is awesome.,amazon,1,1,0.8746611942124504
+WORTHWHILE.,amazon,1,0,0.4674186869889016
+"I have this phone and it is a thorn in my side, I really abhor it.",amazon,0,1,0.6062026660029188
+The only place good for this film is in the garbage.,imdb,0,1,0.5940493061473564
+Good price.,amazon,1,1,0.9236186271836249
+Enough can not be said of the remarkable animation in this film.,imdb,1,0,0.26836799033356
+"The chicken dishes are OK, the beef is like shoe leather.",yelp,0,1,0.5227901619492419
+Some may say this buffet is pricey but I think you get what you pay for and this place you are getting quite a lot!,yelp,1,0,0.4930376612693064
+say bye bye to your tip lady!,yelp,0,1,0.5468816349288173
+I tried talking real loud but shouting on the telephone gets old and I was still told it wasn't great.,amazon,0,1,0.630529170034102
+I really enjoyed eating here.,yelp,1,1,0.5742674427175621
+The chicken wings contained the driest chicken meat I have ever eaten.,yelp,0,0,0.4964002013484459
+When I received my Pita it was huge it did have a lot of meat in it so thumbs up there.,yelp,1,1,0.5458407223338105
+Phone is sturdy as all nokia bar phones are.,amazon,1,1,0.5811274148721941
+It makes very strange ticking noises before it ends the call.,amazon,0,1,0.5091862811274611
+His acting alongside Olivia De Havilland was brilliant and the ending was fantastic!,imdb,1,1,0.7741733227473406
+"This place is pretty good, nice little vibe in the restaurant.",yelp,1,1,0.8336282453274639
+The cast of veteran actors are more than just a nostalgia trip.,imdb,1,1,0.5656153234986643
+Great Phone.,amazon,1,1,0.896077437577956
+"Every time he opened his mouth you expect to hear, ""you see kids..."" Pulling the plug was a mercy killing for this horrible show.",imdb,0,0,0.46470138827795215
+"The Wife hated her meal (coconut shrimp), and our friends really did not enjoy their meals, either.",yelp,0,0,0.4034654684319222
+""" With great sound effects, and impressive special effects, I can't recommend this movie enough.",imdb,1,1,0.7689954811373723
+Will go back next trip out.,yelp,1,0,0.3524169296734327
+I liked the patio and the service was outstanding.,yelp,1,1,0.6635903238588563
+#1 It Works - #2 It is Comfortable.,amazon,1,1,0.8523655712454351
+The script looks as if only a rough draft was written and shooting began before a finished script was completed.,imdb,0,0,0.22550549056819197
+"I know that Jim O'Connor was very energetic and that nobody could be as much as him, but George was well dull.",imdb,0,0,0.4908795513758588
+The interplay between Martin and Emilio contains the same wonderful chemistry we saw in Wall Street with Martin and Charlie.,imdb,1,1,0.6443243595939123
+You can't even tell if they have any talent because they not only have pathetic lines to speak but the director gave them no action.,imdb,0,0,0.1983907718683645
+"This is a masterful piece of film-making, with many themes simmering and occasionally boiling over in this warts and all study of the poet's bohemian, self-indulgent wartime years that span the aerial bombardments of London and the outward tranquillity of a Welsh coastal retreat - the borderlines between friendship, lust and love, dedication to art and experience versus practical concerns, jealousy, rivalry, cowardice and egotism versus heroism and self-sacrifice and more.",imdb,1,1,0.7498297362466245
+I don't think you will be disappointed.,imdb,1,0,0.34506664401575315
+Service is friendly and inviting.,yelp,1,1,0.72100589379602
+first time there and might just be the last.,yelp,0,0,0.43511893421595577
+I don't think I'll be running back to Carly's anytime soon for food.,yelp,0,0,0.30633494577383663
+"It's practically perfect in all of them  a true masterpiece in a sea of faux ""masterpieces.",imdb,1,1,0.6310513573076791
+My boyfriend and i sat at the bar and had a completely delightful experience.,yelp,1,1,0.619367513449816
+I was looking for this headset for a long time and now that I've got it I couldn't be happier.,amazon,1,1,0.500226448566909
+Truly awful.,amazon,0,0,0.30188003103440764
+The keyboard is a nice compromise between a full QWERTY and the basic cell phone number keypad.,amazon,1,1,0.7181066398442622
+The pizza selections are good.,yelp,1,1,0.7444486962923771
+"Performed awful -- muffled, tinny incoming sound and severe echo for those on the other end of the call.",amazon,0,0,0.47900067249408834
+The food was outstanding and the prices were very reasonable.,yelp,1,1,0.601666541853096
+"About 30 minutes of footage is wasted to show mediocre elderly actors awkwardly babbling overwrought pseudo-Satanic gibberish corny enough to make a teen Goth blush, almost always in Olde English, and sometimes in Latin that may or may not be made up words.",imdb,0,0,0.27100694020913263
+"Good value, great food, great service.",yelp,1,1,0.9382202577842094
+I dont think I will be back for a very long time.,yelp,0,1,0.5152309898975143
+"The tracfonewebsite is user friendly and makes it easy toactivate, etc.",amazon,1,1,0.689242842476557
+"I have been in more than a few bars in Vegas, and do not ever recall being charged for tap water.",yelp,0,0,0.32146008935787435
+"The whole experience was underwhelming, and I think we'll just go to Ninja Sushi next time.",yelp,0,0,0.49328777188379813
+I highly recommend this case.,amazon,1,1,0.7519152308248881
+"The decor is nice, and the piano music soundtrack is pleasant.",yelp,1,1,0.768551863659387
+The delivery was on time.,amazon,1,0,0.4068965997594453
+"I love the camera, it's really pretty good quality.",amazon,1,1,0.8677388805647899
+The vegetables are so fresh and the sauce feels like authentic Thai.,yelp,1,1,0.6909959540636754
+Plan on ordering from them again and again.,amazon,1,1,0.5146900283846837
+"When I placed my treo into the case, not only was it NOT snug, but there was A LOT of extra room on the sides.",amazon,0,0,0.21362828690475316
+Keep up the good work Amazon!!,amazon,1,1,0.5580689817921324
+"After 3 months, screen just went black all of a sudden.",amazon,0,1,0.5184448355679517
+I'd love to go back.,yelp,1,1,0.6442947445602656
+I have been very satisfied with this cell phone from day one.,amazon,1,1,0.5984701554173467
+"Overall, I was very disappointed with the quality of food at Bouchon.",yelp,0,0,0.40488381655512523
+"Also, the phone doesn't seem to accept anything except CBR mp3s, preferably ripped by Windows Media Player.",amazon,0,0,0.39246115269952225
+"The worst, sappiest dialogue... I could go on and on.",imdb,0,0,0.25553416933023676
+I will never forget it now.,imdb,1,0,0.27809849025998423
+Conclusion - I loved it.,imdb,1,1,0.7648878827543034
+"I was very uneasy with how bad this movie was, but not scared at all.",imdb,0,0,0.11899193720274745
+Great character actors Telly Savalas and Peter Boyle.,imdb,1,1,0.9120488976581205
+the worst phone from samsung...crap..... this crappy Samsung E715.. is the worst i have ever seeen.,amazon,0,0,0.16497433697595845
+Lately they have been extremely nice and helpful on the phone.,amazon,1,1,0.6134500447690344
+The yellowtail carpaccio was melt in your mouth fresh.,yelp,1,1,0.5172396972147125
+There was a warm feeling with the service and I felt like their guest for a special treat.,yelp,1,0,0.4055491900709895
+The shrimp tender and moist.,yelp,1,1,0.608525764519394
+Disapointing Results.,amazon,0,0,0.4584611590967759
+Judith Light is one of my favorite actresses and I think she does a superb job in this film!,imdb,1,1,0.733916471535553
+"We got sitting fairly fast, but, ended up waiting 40 minutes just to place our order, another 30 minutes before the food arrived.",yelp,0,0,0.293690659135278
+"The descriptions said ""yum yum sauce"" and another said ""eel sauce"", yet another said ""spicy mayo""...well NONE of the rolls had sauces on them.",yelp,0,1,0.5401166903565009
+"It was an inexpensive piece, but I would still have expected better quality.",amazon,0,0,0.3898145564449378
+"The sound quality for the device is unacceptable.Unless you are in a really quiet area, you almost hear nothing.",amazon,0,0,0.47891837400860016
+"I particularly remember my senses being assaulted by strident cords of music that would blare out with very little warning, and even less meaning.",imdb,0,0,0.49585741644580145
+very slow at seating even with reservation.,yelp,0,0,0.29245516582363956
+This is an excellent film.,imdb,1,1,0.8833957528918613
+I probably won't be coming back here.,yelp,0,0,0.37163733451661085
+"Every element of this story was so over the top, excessively phony and contrived that it was painful to sit through.",imdb,0,1,0.5704566589847635
+She's poised and amazing.,imdb,1,1,0.8432314245757654
+Also great directing and photography.,imdb,1,1,0.832383518904038
+I'm trying to return it for a refund.,amazon,0,0,0.2517238585710256
+The management is rude.,yelp,0,0,0.2687268517180885
+Can't upload ringtones from a third party.,amazon,0,0,0.4939618168978145
+"I also had to taste my Mom's multi-grain pumpkin pancakes with pecan butter and they were amazing, fluffy, and delicious!",yelp,1,1,0.7846849404555974
+"The service was great, even the manager came and helped with our table.",yelp,1,1,0.6753626714950052
+Service sucks.,yelp,0,0,0.2324282680506686
+I couldn't take them seriously.,imdb,0,0,0.3936727592078301
+The Greek dressing was very creamy and flavorful.,yelp,1,1,0.67413552110806
+A good commentary of today's love and undoubtedly a film worth seeing.,imdb,1,1,0.9048731849543025
+I liked it.,imdb,1,1,0.7286006482835735
+"I had heard good things about this place, but it exceeding every hope I could have dreamed of.",yelp,1,1,0.6358868510851307
+Best headset ever!!!.,amazon,1,1,0.7416525151895947
+Thanks good a movie like this was done and released.,imdb,1,1,0.6939851310111391
+A film not easily forgotten.,imdb,1,0,0.17861340891295163
+I wish I could return the unit and get back my money.,amazon,0,0,0.2462416747320407
+"Well packaged, arrived on time, and works as intended.",amazon,1,1,0.8015752909623645
+If she had not rolled the eyes we may have stayed... Not sure if we will go back and try it again.,yelp,0,0,0.23622752600194338
+Tied to charger for conversations lasting more than 45 minutes.MAJOR PROBLEMS!!,amazon,0,0,0.39151834820380926
+Omelets are to die for!,yelp,1,1,0.5174569856924937
+Which has more depth and character than the man underneath it.,imdb,0,1,0.6427889730778333
+About half way through this film I started to dislike it.,imdb,0,0,0.38415279179463835
+I had Verizon 2 years ago and really liked their service.,amazon,1,1,0.7391905756017499
+"To sum the film up, ""Breeders"" is a terrible, cheaply made horror movie that should be avoided like the Ebola virus.",imdb,0,0,0.37520507818271703
+"Oh yeah, and the storyline was pathetic too.",imdb,0,0,0.3580481481175808
+SWEETEST PHONE!!!,amazon,1,1,0.510597434954526
+Excellent sound quality.,amazon,1,1,0.7700500488173979
+That company is a joke.,amazon,0,0,0.3842091225245646
+"I find wasting food to be despicable, but this just wasn't food.",yelp,0,0,0.28808067865331854
+This frog phone charm is adorable and very eye catching.,amazon,1,1,0.6812977532929387
+"It is light, easy to use, and has very clear reception and transmission.",amazon,1,1,0.7822227065057941
+The manager was the worst.,yelp,0,0,0.18138050172390163
+Maybe if they weren't cold they would have been somewhat edible.,yelp,0,0,0.35601912598028707
+Non-linear narration thus many flashbacks and every part are articulated quite well.,imdb,1,1,0.7552175614805298
+"but it is great, i would really recommend it",amazon,1,1,0.8117091158245113
+The classic Maine Lobster Roll was fantastic.,yelp,1,1,0.7372950649332187
+I do think Tom Hanks is a good actor.,imdb,1,1,0.7405512647179262
+the movie is littered with overt racial slurs towards the black cast members and in return the whites are depicted as morons and boobs.,imdb,0,1,0.6562072470544482
+Buttons are too small.,amazon,0,0,0.4077233345395839
+10/10,imdb,1,1,0.6882200298485188
+Not worth it.,amazon,0,0,0.1616804265268705
+"The only real effects work is the presence of all the animals, and the integration of those into the scenes is some of the worst and most obvious blue/green-screen work I've ever seen.",imdb,0,0,0.3703380758099117
+Food was so gooodd.,yelp,1,1,0.5097970719689483
+I mean this in a terrible way.,imdb,0,0,0.18130734047046207
+Also notable is John Bailey's fine crisp beautifully colored cinematography and the great production design & costumes by Eiko Ishioka who went on to do the memorable costumes for Coppola's Dracula for which she received a well deserved Oscar.,imdb,1,1,0.7959420168080489
+Worst software ever used.... If I could give this zero stars I would.,amazon,0,0,0.2959380601475512
+Worst ever.,amazon,0,0,0.1703525800781117
+I certainly do not mean this distinction in a good way.,imdb,0,0,0.2852973298501905
+I would recommend saving room for this!,yelp,1,1,0.540201806715171
+"For a product that costs as much as this one does, I expect it to work far better and with greater ease than this thing does.",amazon,0,0,0.3869727090153441
+"Both actors truly understand and become their particular character, delivering a convincing, sincere performance.",imdb,1,1,0.6406057235175329
+I'm very disappointed with my decision.,amazon,0,0,0.36596526427019527
+"The wontons were thin, not thick and chewy, almost melt in your mouth.",yelp,1,0,0.3193548240031409
+Totally believable.,imdb,1,0,0.41075718133537603
+"Small, sleek, impressive looking, practical setup with ample storage in place.",amazon,1,0,0.48543405880114016
+"The ""explosion"" of the Gas tanks at the end was just as awful.",imdb,0,0,0.3491323381365944
+My drink was never empty and he made some really great menu suggestions.,yelp,1,1,0.7221792404316195
+Disappointing accessory from a good manufacturer.,amazon,0,1,0.587816134951674
+but the movie makes a lot of serious mistakes.,imdb,0,0,0.4968148996771947
+Not too screamy not to masculine but just right.,imdb,1,0,0.09008501031840821
+Yes it's shiny on front side - and I love it!,amazon,1,1,0.7317909033641828
+There is no plot here to keep you going in the first place.,imdb,0,0,0.1934620701088515
+This place was such a nice surprise!,yelp,1,1,0.5943618990235827
+And I really did find them funny.,imdb,1,1,0.6305780416797656
+Works as described.,amazon,1,1,0.762144140833723
+"The ripped banana was not only ripped, but petrified and tasteless.",yelp,0,0,0.1285651977694084
+"Service is quick and even ""to go"" orders are just like we like it!",yelp,1,1,0.612075586028757
+I gave it a 10,imdb,1,1,0.6480362811324951
+"Very good, though!",yelp,1,1,0.8880304443198969
+The original Body and Soul (1947) is a masterpiece.,imdb,1,1,0.6550311379987188
+The kids are annoying.,imdb,0,1,0.5115608716417603
+Great product.,amazon,1,1,0.9056740709494111
+"It's a sad movie, but very good.",imdb,1,1,0.7116359671990211
+This is a really fantastic Thai restaurant which is definitely worth a visit.,yelp,1,1,0.7724291282600839
+The kids play area is NASTY!,yelp,0,1,0.5821580261175909
+"Woa, talk about awful.",imdb,0,0,0.28332803173591226
+No plot whatsoever!,imdb,0,0,0.18710828358538184
+The film has an ultra-cheap look to it.,imdb,0,1,0.6215782241916511
+I must say I have taped most of the episodes and i find myself watching them over and over again.,imdb,1,1,0.6143206223519111
+I received my supposedly new motorola 375 and apparently there was not a match between the phone and the charger.,amazon,0,0,0.297427216990699
+The plot is nonsense that doesn't interest in the slightest way or have any uniqueness to it.,imdb,0,0,0.2845621525830448
+"I had ordered a motorola data cable, got a very well finished and working product.",amazon,1,1,0.6703394012056301
+It looked like a wonderful story.,imdb,1,1,0.5442977780823591
+The movie has almost no action scenes in it and very little comedy.,imdb,0,1,0.573411042575623
+So just beware.,amazon,0,1,0.5485005994192128
+"Overall, a great experience.",yelp,1,1,0.9088394950293657
+The dialogue is atrocious.,imdb,0,0,0.41957958036223014
+"I really loved the story line and the poler bear was kinda cute.But if anyone has a question about Fort Steele, just ask away:)",imdb,1,1,0.5725203903439832
+The bathrooms are clean and the place itself is well decorated.,yelp,1,1,0.7088690421935313
+The poor batter to meat ratio made the chicken tenders very unsatisfying.,yelp,0,0,0.3824559702304086
+"I know this is not like the other restaurants at all, something is very off here!",yelp,0,0,0.29179491579663464
+AFter the first charge kept going dead after 12 minutes.,amazon,0,0,0.238746267497941
+It is practically useless and did not add any kind of boost to my reception after I bought it.,amazon,0,0,0.3030953444404416
+Bad Reception.,amazon,0,0,0.12536140658558442
+The flat reenactments don't hold your attention because they are emotionally adrift and stagy.,imdb,0,0,0.40509097493767965
+"Full of unconvincing cardboard characters it is blandly written by Edward Chodorov, who also produced, and is surprisingly directed by Jean Negulesco from whom one would expect a great deal more.",imdb,0,1,0.7680413229092322
+You get what you pay for I guess.,amazon,0,0,0.33169911914241085
+Works like a charm.. Works as advertised.,amazon,1,1,0.7646210187081847
+Just as good as when I had it more than a year ago!,yelp,1,1,0.5698533788632534
+"The fact is, this film is a wonderful, heartwarming tale about two people chasing their dreams.",imdb,1,1,0.7094513927531285
+Their daily specials are always a hit with my group.,yelp,1,1,0.688604981360721
+I paid the bill but did not tip because I felt the server did a terrible job.,yelp,0,0,0.1996598509324228
+"very clear, quality sound and you don't have to mess with the sound on your iPod since you have the sound buttons on the headset.",amazon,1,1,0.5493486183648519
+"It's quite simply the highest, most superlative form of cinema imaginable.",imdb,1,1,0.5860950941414917
+Still Waiting...... I'm sure this item would work well.. if I ever recieve it!,amazon,0,0,0.4286347933270741
+"Macbeth (Jason Connery) moved me to tears with his final monolog (out brief candle, out)He gave the sphere of moral decay and dark forces a human face, which makes it the more interesting.",imdb,1,1,0.5509621383252653
+I wasn't the least bit interested.,imdb,0,0,0.19052091663043483
+"The internet access was fine, it the rare instance that it worked.",amazon,0,1,0.6337962992927583
+Just does not work.,amazon,0,0,0.12228302803279316
+What happened next was pretty....off putting.,yelp,0,0,0.2731015897168131
+"The acting was decidely wooden, though no worse than a period Universal B movie.",imdb,0,0,0.26872353922946174
+"They could serve it with just the vinaigrette and it may make for a better overall dish, but it was still very good.",yelp,1,1,0.7245221006334959
+Overall I was not impressed and would not go back.,yelp,0,0,0.13117430727531296
+It was just too horrible.,imdb,0,0,0.17374040363634155
+Does not work for listening to music with the cingular 8125.,amazon,0,0,0.1991283272853196
+"This is a bad film, with bad writing, and good actors....an ugly cartoon crafted by Paul Haggis for people who can't handle anything but the bold strokes in storytelling....a picture painted with crayons.",imdb,0,0,0.4562143406769447
+Really awful.,imdb,0,0,0.22275895037680263
+She carries the movie well.,imdb,1,1,0.6980663029846039
+"First of all, it doesn't wear well.",amazon,0,0,0.4538120884621137
+I kept catching the cable on the seat and I had to pull the phone out to turn it on an off.,amazon,0,0,0.38429366250888
+The only good thing was that it fits comfortably on small ears.,amazon,1,1,0.619732466588675
+Kids pizza is always a hit too with lots of great side dish options for the kiddos!,yelp,1,1,0.7737243800296412
+It dit not work most of the time with my Nokia 5320.,amazon,0,0,0.2550675050832646
+What I really like there is the crepe station.,yelp,1,0,0.27054981753096113
+Is it possible for a movie to get any worse than this?,imdb,0,0,0.3162461132275026
+"The ending is so, SO perfect... you'll shed a tear.",imdb,1,1,0.7378265277151711
+There's also enough hypocrisy in this film to make me vomit.,imdb,0,0,0.37320555453686305
+Will not be back!,yelp,0,0,0.19246770179468786
+"I have only had it for a few weeks, but so far, so good.",amazon,1,1,0.5929210068316946
+WORST PHONE EVER.,amazon,0,0,0.21079179726919117
+(very serious spoilers) this movie was a huge disappointment.,imdb,0,0,0.43991082515939806
+Rating: 1 out of 10.,imdb,0,0,0.48511474913078745
+"However, after about a year, the fliptop started to get loose and wobbly and eventually my screen went black and I couldn't receive and place calls.",amazon,0,0,0.4675102506378147
+Stay Away From the Q!.,amazon,0,0,0.30827377053935284
+"Predictable, but not a bad watch.",imdb,1,0,0.06989288376789247
+"his performance, as awarded, was stunning.",imdb,1,1,0.5431535553190139
+This pair of headphones is the worst that I have ever had sound-wise.,amazon,0,0,0.30698522934708355
+"This movie is a pure disaster, the story is stupid and the editing is the worst I have seen, it confuses you incredibly.",imdb,0,0,0.321201854317243
+It was a huge awkward 1.5lb piece of cow that was 3/4ths gristle and fat.,yelp,0,0,0.33789152846203074
+The acting was bad.,imdb,0,0,0.13680574661349054
+Everything stinks.,imdb,0,0,0.4795836400441163
+This was such an awesome movie that i bought it off of Ebay.,imdb,1,0,0.4677634331574646
+Superb Phone on a Great Network.,amazon,1,1,0.8129714946524605
+My wife had the Lobster Bisque soup which was lukewarm.,yelp,0,0,0.49117617982604167
+If you are Razr owner...you must have this!,amazon,1,1,0.517637647052961
+"This was utterly confusing at first, which caused me to lose a couple of very, very important contacts.",amazon,0,0,0.29867656342355137
+But other than that the movie seemed to drag and the heroes didn't really work for their freedom.,imdb,0,0,0.43695610119049083
+Why are these sad little vegetables so overcooked?,yelp,0,0,0.4552282525983339
+"Wow, what a bad film.",imdb,0,0,0.27717873786308367
+2 times - Very Bad Customer Service !,yelp,0,0,0.13186237862384026
+The incredible soundtrack truly captures the essence of the film.,imdb,1,1,0.7573198856344167
+Your staff spends more time talking to themselves than me.,yelp,0,0,0.499428024793978
+This is definitely one of the bad ones.,imdb,0,0,0.42770758317416957
+They were golden-crispy and delicious.,yelp,1,1,0.775994259613421
+Over rated.,yelp,0,0,0.39377079105248874
+Great place to have a couple drinks and watch any and all sporting events as the walls are covered with TV's.,yelp,1,1,0.8110997521493862
+I will come back here every time I'm in Vegas.,yelp,1,1,0.6154202128371907
+Freezes frequently4.,amazon,0,0,0.4674186869889016
+I waited and waited.,yelp,0,0,0.3804455296489915
+"Still, it makes up for all of this with a super ending that depicts a great sea vessel being taken out by the mighty frost.",imdb,1,1,0.7470111029599058
+Battery charge-life is quite long.,amazon,1,0,0.33407295027743905
+And I just love the colors!,amazon,1,1,0.879946243305103
+"It felt like a very gripping, intelligent stage play (but without the overly theatrical feeling one actually gets from watching people on a stage) which plays on everyone's terror of a white lie escalating to monstrous consequences.",imdb,1,1,0.5327027932408803
+Crust is not good.,yelp,0,0,0.2146675412137017
+See both films if you can.,imdb,1,1,0.5656202975653082
+I totally and absolutely recommend this movie to anyone who likes good wholesome family movies because that is exactly what this is.,imdb,1,1,0.7368817268969996
+"* Comes with a strong light that you can use to light up your camera shots, and even flash SOS signals (seriously!",amazon,1,0,0.457036150402721
+"- Really, really good rice, all the time.",yelp,1,1,0.6846008073701049
+Star Trek V The final Frontier is the worst in the series.,imdb,0,0,0.28808388705515403
+The basic premise is wasted since it is sidelined by the inexplicable focus on the documentary crew.,imdb,0,0,0.4738063647766923
+"If that bug never showed up I would have given a 4 for sure, but on the other side of the wall where this bug was climbing was the kitchen.",yelp,0,0,0.3512279487421392
+Tasted like dirt.,yelp,0,0,0.4426507264368593
+"I always order from the vegetarian menu during dinner, which has a wide array of options to choose from.",yelp,1,1,0.6238139128280364
+"A very, very, very slow-moving, aimless movie about a distressed, drifting young man.",imdb,0,0,0.3768885905026663
+A great way to finish a great.,yelp,1,1,0.8977332150315875
+Poor Talk Time Performance.,amazon,0,0,0.24044238457366715
+They refuse to refund or replace.,amazon,0,0,0.4588392323334178
+"However, there was so much garlic in the fondue, it was barely edible.",yelp,0,0,0.28409179747410596
+The cast is good.,imdb,1,1,0.8234369702142305
+Awful service.,yelp,0,0,0.19252095148021858
+I have read other's reviews here but I haven't had any problem with it.,amazon,1,0,0.45177049092197885
+And those baby owls were adorable.,imdb,1,1,0.6197518252429377
+I love the fact that everything on their menu is worth it.,yelp,1,1,0.7558005641631338
+The problem I have is that they charge $11.99 for a sandwich that is no bigger than a Subway sub (which offers better and more amount of vegetables).,yelp,0,0,0.4143324186314106
+Excellent dual-purpose headset.,amazon,1,1,0.8670583522213023
+"Even allowing for poor production values for the time (1971) and the format (some kind of mini-series), this is baaaaaad.",imdb,0,0,0.44681796269158025
+"The burger had absolutely no flavor - the meat itself was totally bland, the burger was overcooked and there was no charcoal flavor.",yelp,0,0,0.2375666048489182
+10 out of 10 stars.,imdb,1,1,0.6510591038780842
+Great choice!,amazon,1,1,0.8981023384151045
+Setup went very smoothly.,amazon,1,1,0.5217721132079589
+This movie is great--especially if you enjoy visual arts.,imdb,1,1,0.7368994239362613
+Their chow mein is so good!,yelp,1,1,0.8252543434937053
+- They never brought a salad we asked for.,yelp,0,0,0.3145534146204645
+"Long, whiny and pointless.",imdb,0,1,0.633566431582707
+Battery is holding up well.,amazon,1,1,0.5478581050588579
+Mobile Phone Tools are a must have.,amazon,1,1,0.5591695822007798
+Jawbone Era is awesome too!,amazon,1,1,0.6336460049703632
+"Crash is a depressing little nothing, that provokes emotion, but teaches you nothing if you already know racism and prejudice are bad things.",imdb,0,0,0.2495975614846451
+im surprised this is a good quality car charger and there's not much reviews about it.,amazon,1,1,0.5237691660883869
+Not easy to watch.,imdb,0,0,0.45404027961722404
+There was NOTHING believable about it at all.,imdb,0,0,0.2645235924547575
+"Now the burgers aren't as good, the pizza which used to be amazing is doughy and flavorless.",yelp,0,1,0.68189885582505
+I can assure you that you won't be disappointed.,yelp,1,0,0.4346832642386632
+I'm happy about this purchase- good quality and low price.,amazon,1,1,0.7587413472474949
+nice leather.,amazon,1,1,0.7583858479540554
+I had about two bites and refused to eat anymore.,yelp,0,0,0.47799776777194625
+"Then I watched it again two Sundays ago (March 20th, 2005) and I began to really enjoy it and this time I taped the entire thing.",imdb,1,0,0.41147150020541445
+It finds my cell phone right away when I enter the car.,amazon,1,1,0.587646527008054
+I'm still infatuated with this phone.,amazon,1,1,0.5659629856448571
+The headsets are easy to use and everyone loves them.,amazon,1,1,0.6375855233954751
+"If you do watch it, however, there are small consolations: The actresses playing Anne's sisters each do a wonderful job with their roles.",imdb,1,1,0.590362893775013
+Pretty piece of junk.,amazon,0,0,0.23656317204329105
+Talk about USELESS customer service.,amazon,0,0,0.28334706357624995
+"It's as continuously beautiful to look at as a Bertolucci, but the relationships here are more convincing and the narrative more engaging than some of that master's work.",imdb,1,0,0.46958167982473226
+is pretty funny.,imdb,1,1,0.6921891769698569
+"great headset, very impressed - H500.",amazon,1,1,0.8620295563363433
+A very charming film with wonderful sentiment and heart.,imdb,1,1,0.8522815860963903
+"If you are looking for a movie with a terrific cast, some good music(including a Shirley Jones rendition of ""The Way You Look Tonight""), and an uplifting ending, give this one a try.",imdb,1,1,0.6823669116685546
+"I was sitting in my vehicle, with the cradle on my belt, and the headset lost signal.",amazon,0,1,0.5544720990144083
+The selection was probably the worst I've seen in Vegas.....there was none.,yelp,0,0,0.2203508173800189
+"This item is great, installed it, let it charged up overnite and it has been working good every since with no problems",amazon,1,1,0.8266834901734157
+"This hole in the wall has great Mexican street tacos, and friendly staff.",yelp,1,1,0.887623969996578
+"The acting helps the writing along very well (maybe the idiot-savant sister could have been played better), and it is a real joy to watch.",imdb,1,1,0.6368785989436392
+"After waiting an hour and being seated, I was not in the greatest of moods.",yelp,0,0,0.30896919588710164
+A FLY was in my apple juice.. A FLY!!!!!!!!,yelp,0,0,0.43509178797334347
+I purcashed this for the car charger and it does not work.,amazon,0,0,0.3590174758225731
+I was mortified.,yelp,0,0,0.28968511699673005
+"Come hungry, leave happy and stuffed!",yelp,1,1,0.6675225825926376
+How can anyone in their right mind ask for anything more from a movie than this?,imdb,1,0,0.39498450078809194
+BT50 battery junk!.,amazon,0,0,0.2676615935309141
+Waitress was a little slow in service.,yelp,0,0,0.3473897333024704
+The sweet potato tots were good but the onion rings were perfection or as close as I have had.,yelp,1,1,0.5445793225129824
+Everything Captain Howdy says is either laughable or just plain stupid.,imdb,0,0,0.2918516375527487
+Having to humour him just to get by and get through the day was so apt.,imdb,1,1,0.5460637127980604
+"Simple, lightweight and great fit.",amazon,1,1,0.8311414343318143
+I won't be back.,yelp,0,0,0.4416583953081182
+We loved the place.,yelp,1,1,0.6696945357367571
+"The characters are interesting, even if a bit predictable.",imdb,1,0,0.4237905397274247
+They were excellent.,yelp,1,1,0.7487518293584927
+The text messaging feature is really tricky to use.,amazon,0,1,0.5001990805542038
+One thing I hate is the mode set button at the side.,amazon,0,0,0.42296821084890335
+"IMDB ratings only go as low 1 for awful, it's time to get some negative numbers in there for cases such as these.",imdb,0,0,0.24288934307865312
+"The ambiance here did not feel like a buffet setting, but more of a douchey indoor garden for tea and biscuits.",yelp,0,0,0.3624694999088032
+"I tried the Cape Cod ravoli, chicken,with cranberry...mmmm!",yelp,1,1,0.6565512643250659
+[...] down the drain because of a weak snap!,amazon,0,0,0.3136530957314059
+"Using all earpieces, left or right, this thing will not stay on my ear.",amazon,0,0,0.24090143231824582
+"It is a film about nothing, just a pretext to show ridiculous action scenes.",imdb,0,0,0.40101462075965694
+Will not be back.,yelp,0,0,0.19246770179468786
+"The lines, the cuts, the audio, everything is wrong.",imdb,0,0,0.4199368811501695
+Have been going since 2007 and every meal has been awesome!!,yelp,1,1,0.6476353513204556
+And the red curry had so much bamboo shoots and wasn't very tasty to me.,yelp,0,1,0.5627224652234817
+How stupid is that?,amazon,0,0,0.19850265145851903
+The movie seemed a little slow at first.,imdb,0,0,0.25535041886521354
+It is worth the drive.,yelp,1,0,0.48519686540287893
